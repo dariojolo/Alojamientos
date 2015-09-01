@@ -2,12 +2,6 @@ apply plugin: 'com.android.application'
 
 android {
     signingConfigs {
-        config {
-            keyAlias 'dariojolo'
-            keyPassword 'casla2586'
-            storeFile file('C:/Users/IBM_ADMIN/Documents/Dario/Android/firma.jks')
-            storePassword 'casla2586'
-        }
     }
     compileSdkVersion 23
     buildToolsVersion "22.0.1"
