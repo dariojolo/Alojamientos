@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Alojamientos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lista_vacia">lista_vacia</string>
+    <string name="label_nombre_hipoteca">label_nombre_etiqueta</string>
+    <string name="label_condiciones">Condiciones</string>
+    <string name="label_contacto">Contacto</string>
+    <string name="label_telefono">Telefono</string>
+    <string name="label_email">Email</string>
+    <string name="label_observaciones">label_observaciones</string>
+    <string name="categoria">Categoria</string>
+    <string name="label_nombre_alojamiento">Nombre alojamiento</string>
+    <string name="label_plazas">Plazas</string>
+    <string name="label_domicilio">Domicilio</string>
+    <string name="label_barrio">Barrio</string>
+    <string name="label_longitud">Longitud</string>
+    <string name="label_latitud">Latitud</string>
+    <string name="label_habitaciones">Habitaciones</string>
+</resources>

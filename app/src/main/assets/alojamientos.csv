@@ -1,0 +1,24 @@
+num_registro,categoria,establecimiento,hab,plazas,domicilio,barrio,tel,mail,lon,lat,foto
+1,3 estrellas,NORMANDIE HOTEL,59,118,RODRIGUEZ PEÑA 320,SAN NICOLAS,4371-7001 al 06,normandie@hotelnormandie.com.ar,-58.3862873,-34.5993748,NORMANDIE HOTEL
+2,3 estrellas,COLUMBIA PALACE HOTEL,67,150,CORRIENTES 1533/35/37,SAN NICOLAS,4373-1906,reservas@columbiapalacehotel.com.ar,-58.388344,-34.6041219,COLUMBIA PALACE HOTEL
+41,REG DE PREST,LA CASCADA TOWN HOUSE HOTEL,15,30,Vuelta de Obligado 4578,NUÑEZ,4703-1251,info@lacascadatownhouse.com.ar,-58.472416,-34.541195,foto
+42,1 estrellas,QUITO,15,40,ALSINA 2737,BALVANERA,4957-5056,,-58.4049,-34.6123,foto
+43,3 estrellas,LIBERTY HOTEL,94,190,CORRIENTES 632,SAN NICOLAS,5279-0000,ventas@liberty-hotel.com.ar,-58.3757,-34.6034,foto
+44,1 estrellas,MILAN,45,96,MONTEVIDEO 337,SAN NICOLAS,4373-0759 / 4374-1906,info@milanhotel.com.ar,-58.3893,-34.6049,foto
+45,2 estrellas,CHILE,68,119,AV. DE MAYO 1297,MONSERRAT,4383-7877 / 1333,reseras@hotelchile.com.ar,-58.3847,-34.6092,foto
+46,1 estrellas,AVENIDA PETIT HOTEL,51,97,AV DE MAYO 1347,MONSERRAT,4381-2428 / 7831,avenidapetit@gmail.com,-58.3855,-34.6093,foto
+49,2 estrellas,LA AVENTURA HOTEL (ex LAS FAMILIAS),50,85,ITUZAINGO 763,BARRACAS,4362-0519,,-58.3749,-34.631,foto
+51,3 estrellas,TORRE HOTEL,84,176,OLLEROS 4186,CHACARITA,4552-6034 / 6655,hoteltorre@fibertel.com.ar ,-58.4537,-34.5873,foto
+55,3 estrellas,ALPINO HOTEL,35,140,CABELLO 3316/18,PALERMO,4802-5151,hotelalpino@fibertel.com.ar,-58.4079,-34.5817,foto
+56,2 estrellas,CECIL HOTEL,40,86,AV DE MAYO 1239,MONSERRAT,4383-3511,cecilhotel@hotmail.com,-58.384,-34.6091,foto
+57,2 estrellas,PLAZA ROMA,65,150,LAVALLE 110,SAN NICOLAS,4311-1679,info@hotelplazaroma.com.ar,-58.3693,-34.6019,foto
+58,3 estrellas,REGIS HOTEL,84,190,LAVALLE 813,SAN NICOLAS,4327-2614,nbelchior@orho-hoteles.com.ar,-58.3783,-34.6023,foto
+59,2 estrellas,REAL SPLENDID,42,76,FALCON 2799,FLORES,4611-3279,realsplendidhotel@ciudad.com.ar,-58.4676,-34.6317,foto
+60,2 estrellas,MARBELLA HOTEL,78,154,AV DE MAYO 1261,MONSERRAT,4383-8566,info@hotelmarbella.com.ar,-58.3843,-34.6092,foto
+61,1 estrellas,PRINCE HOTEL,44,92,ARENALES 1627,RECOLETA,4811-8004,princehotel@arnet.com.ar,-58.3906,-34.595,foto
+62,2 estrellas,GRAN HOTEL HISPANO,53,108,AV DE MAYO 861,MONSERRAT,4342-4431,hhispano@hhispano.com.ar,-58.3786,-34.6089,foto
+63,1 estrellas,EL CABILDO,40,89,LAVALLE 0748,SAN NICOLAS,4322-6695 / 6745,hotelelcabildo@yahoo.com.ar gerencia@hotelelcabildo.com,-58.3774,-34.6024,foto
+64,2 estrellas,PANAME,56,109,GODOY CRUZ 2774,PALERMO,4771-4041,info@panamehotel.com.ar,-58.4247,-34.5779,foto
+68,4 estrellas,GRAN HOTEL BUENOS AIRES,91,191,ALVEAR M T 769,RETIRO,4312-3003,reservas@granhotelbue.com.ar rnavarro@granhotelbue.com.ar,-58.378,-34.5963,foto
+69,2 estrellas,KINGS HOTEL,50,99,CORRIENTES 623,SAN NICOLAS,4322-8461 / 8161,reservas@kingshotel.com.ar,-58.3755,-34.6033,foto
+70,2 estrellas,GRAN HOTEL ATLANTIC,71,139,CASTELLI 45,BALVANERA,4951-0081,reservas@hotelatlantic.com.ar,-58.4046,-34.6094,foto
